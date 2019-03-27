@@ -1,5 +1,7 @@
 # Pinball
-
+## 1. Images of the project
+![pinball](https://github.com/ShridharBagal/Pinball/blob/master/repo/Images%20and%20videos/Images/pinball.jpeg.jpg)
+---
 ## 1. Abstract 
 ### Pinball is a type of arcade game, in which points are scored by a player manipulating one or more steel balls on a play field inside a cabinet called a pinball table (or "pinball machine"). The primary objective of the game is to score as many points as possible. 
 ---
